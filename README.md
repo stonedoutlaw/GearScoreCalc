@@ -7,6 +7,8 @@ Welcome to the GitHub repository for Gear Score Calculator! This project, create
 - **Accurate Calculation**: Utilizes advanced algorithms to ensure precise calculation of game score.
 - **Customizable Parameters**: Allows users to input various parameters to tailor the calculation according to specific requirements.
 - **User-Friendly Interface**: Simple and intuitive interface for ease of use.
+- **Wiki Button
+- **Link to my streams Button
 
 ## Installation
 To get started with Gear Score Calculator, follow these simple steps:
@@ -17,7 +19,7 @@ To get started with Gear Score Calculator, follow these simple steps:
 ## Usage
 Here's how you can use Gear Score Calculator:
 1. Enter the required parameters (e.g., player stats, equipment attributes).
-2. Automatically generate the game score.
+2. Automatically generate the Gear Score.
 3. View the calculated score on the Right Hand Side.
 
 ## Contributing
