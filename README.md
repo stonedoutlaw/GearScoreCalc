@@ -15,12 +15,14 @@ To get started with Gear Score Calculator, follow these simple steps:
 1. Clone this repository to your local machine using `git clone https://github.com/StonedOutlaw/gear-score-calculator.git`.
 2. Click on (<>Code) Button and download Zip.
 3. Click on Releases. Download Dark.Darker.Calc.-.Public.zip
+4. Unzip .Zip file
 
 ## Usage
 Here's how you can use Gear Score Calculator:
-1. Enter the required parameters (e.g., player stats, equipment attributes).
-2. Automatically generate the Gear Score.
-3. View the calculated score on the Right Hand Side.
+1. Run the EXE
+2. Enter the Gear Rarity or special exceptions.
+3. Automatically generate the Gear Score.
+4. View the calculated score on the Right Hand Side.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
