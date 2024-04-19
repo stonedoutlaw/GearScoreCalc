@@ -5,7 +5,7 @@ Welcome to the GitHub repository for Gear Score Calculator! This project, create
 
 ## Features
 - **Menu Open/Close**: (Hotkey F1)    *OR*    Task bar, Right Click Icon, Left Click Main Menu
-- **Accurate Calculation**: Utilizes advanced algorithms to ensure precise calculation of game score.
+- **Accurate Calculation**: Utilizes advanced algorithms to ensure precise calculation of Gear Score.
 - **Customizable Parameters**: Allows users to input various parameters to tailor the calculation according to specific requirements.
 - **User-Friendly Interface**: Simple and intuitive interface for ease of use.
 - **Wiki Button**: Direct access to a wiki for additional information or guides.
