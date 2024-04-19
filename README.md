@@ -3,23 +3,32 @@
 ## Introduction
 Welcome to the GitHub repository for Gear Score Calculator! This project, created by StonedOutlaw, is a tool designed to accurately calculate your gear score based on specified criteria.
 
-## Features
-- **Menu Open/Close**: (Hotkey F1)    *OR*    Task bar, Right Click Icon, Left Click Main Menu
-- **Accurate Calculation**: Utilizes advanced algorithms to ensure precise calculation of Gear Score.
-- **Customizable Parameters**: Allows users to input various parameters to tailor the calculation according to specific requirements.
-- **User-Friendly Interface**: Simple and intuitive interface for ease of use.
-- **Wiki Button**: Direct access to a wiki for additional information or guides.
-- **Link to my streams Button**: Quick access to the author's live streams.
-
-
 ![Screenshot 2024-04-18 043034](https://github.com/stonedoutlaw/GearScoreCalc/assets/61644139/7ed3a070-a9c6-4776-a4f5-4a96b31bece8)
 
+## Features
+- **Menu Open/Close**:
+    - (Hotkey F1)    *OR*    Task bar, Right Click Icon, Left Click Main Menu
+- **Accurate Calculation**:
+    - Utilizes advanced algorithms to ensure precise calculation of Gear Score.
+- **Customizable Parameters**:
+    - Allows users to input various parameters to tailor the calculation according to specific requirements.
+- **User-Friendly Interface**:
+    - Simple and intuitive interface for ease of use.
+- **Wiki Button**:
+    - Direct access to a wiki for additional information or guides.
+- **Link to my streams Button**:
+    - Quick access to the author's live streams.
+
 ## Installation
-To get started with Gear Score Calculator, follow these simple steps:
-1. Clone this repository to your local machine using `git clone https://github.com/StonedOutlaw/gear-score-calculator.git`.
-2. Click on (<>Code) Button and download Zip.
-3. Click on Releases. Download Dark.Darker.Calc.-.Public.zip
-4. Unzip .Zip file
+To get started with Gear Score Calculator, follow ONE of these simple steps:
+- Clone this repository to your local machine using CMD
+    -     git clone https://github.com/StonedOutlaw/gear-score-calculator.git
+- Click on (<>Code) Button
+    -  Download Dark.Darker.Calc.-.Public.zip
+    -  Unzip .Zip file
+-  Click on Releases.
+    -  Download Dark.Darker.Calc.-.Public.zip
+    -  Unzip .Zip file
 
 ## Usage
 Here's how you can use Gear Score Calculator:
