@@ -1,15 +1,16 @@
 # Gear Score Calculator
 
 ## Introduction
-Welcome to the GitHub repository for Gear Score Calculator! This project, created by StonedOutlaw, is a tool designed to accurately calculate your gear score based on specified criteria.
+Welcome to the GitHub repository for Gear Score Calculator! This project, created by StonedOutlaw, is a tool designed to accurately calculate your gear score based on specified criteria. WITH OUT leaking your email to a google doc Author, like some other calculator. [NOT Talking about this beautiful master piece.](https://dd-gearscore-calculator.vercel.app/)
 
 ![Screenshot 2024-04-18 043034](https://github.com/stonedoutlaw/GearScoreCalc/assets/61644139/7ed3a070-a9c6-4776-a4f5-4a96b31bece8)
 
 ## Features
 - **Menu Open/Close**:
-    - (Hotkey F1)    *OR*    Task bar, Right Click Icon, Left Click Main Menu
+    - (Hotkey F1)
+    - Task Bar, Right Click Icon, Left Click Main Menu
 - **Accurate Calculation**:
-    - Utilizes advanced algorithms to ensure precise calculation of Gear Score.
+    - Utilizes algorithms to ensure precise calculation of Gear Score.
 - **Customizable Parameters**:
     - Allows users to input various parameters to tailor the calculation according to specific requirements.
 - **User-Friendly Interface**:
