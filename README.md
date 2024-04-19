@@ -1,7 +1,7 @@
 # Gear Score Calculator
 
 ## Introduction
-Welcome to the GitHub repository for Gear Score Calculator! This project, created by StonedOutlaw, is a tool designed to accurately calculate the correct game score based on specified criteria.
+Welcome to the GitHub repository for Gear Score Calculator! This project, created by StonedOutlaw, is a tool designed to accurately calculate your gear score based on specified criteria.
 
 ## Features
 - **Accurate Calculation**: Utilizes advanced algorithms to ensure precise calculation of game score.
