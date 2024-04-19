@@ -11,6 +11,9 @@ Welcome to the GitHub repository for Gear Score Calculator! This project, create
 - **Wiki Button**: Direct access to a wiki for additional information or guides.
 - **Link to my streams Button**: Quick access to the author's live streams.
 
+
+![Screenshot 2024-04-18 043034](https://github.com/stonedoutlaw/GearScoreCalc/assets/61644139/7ed3a070-a9c6-4776-a4f5-4a96b31bece8)
+
 ## Installation
 To get started with Gear Score Calculator, follow these simple steps:
 1. Clone this repository to your local machine using `git clone https://github.com/StonedOutlaw/gear-score-calculator.git`.
